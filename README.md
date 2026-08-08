@@ -1,1 +1,0 @@
-# employment-echo-engineering-case-study
