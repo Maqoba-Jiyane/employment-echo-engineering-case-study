@@ -26,6 +26,8 @@ I architected, developed and operate the platform end-to-end. My responsibilitie
 
 Employment Echo is an actively operated platform. Its production source code is private.
 
+![Employment Echo platform demo](docs/employment-echo-overview.gif)
+
 ---
 
 ## The Problem
