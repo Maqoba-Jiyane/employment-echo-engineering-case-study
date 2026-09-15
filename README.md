@@ -190,6 +190,9 @@ The architecture supports content groupings such as:
 
 The platform reached **1.01M+ Google Search impressions**, **91.1K+ organic clicks**, approximately **9% CTR**, an average search position of **8.1**, and **946 indexed pages**.
 
+![Google Search Console indexing report](docs/search-console-page-indexing.png)
+*Indexing status across the platform's route architecture.*
+
 ---
 
 ### 4. Keeping a growing content platform maintainable
