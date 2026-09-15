@@ -16,6 +16,9 @@
 
 *Search metrics are from Google Search Console and reflect platform performance as of August 2026.*
 
+![Google Search Console performance](docs/search-console-performance.png)
+*Search Console performance report backing the metrics above.*
+
 ---
 
 ## Overview
